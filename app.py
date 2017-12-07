@@ -1,4 +1,4 @@
-#Assignment COMP3916 by Jun "Josh" Yang
+#Assignment COMP3916 by Josh Yang
 #RESTful API for Tasks
 #python 2.7
 
